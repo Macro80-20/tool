@@ -1,0 +1,32 @@
+{
+  "name": "tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macro80-20/tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Macro80-20/tool/issues"
+  },
+  "homepage": "https://github.com/Macro80-20/tool#readme",
+  "dependencies": {
+    "@octokit/rest": "^16.35.0",
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.126.0"
+  }
+}
